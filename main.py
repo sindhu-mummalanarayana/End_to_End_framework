@@ -5,8 +5,10 @@
 
 
 def print_hi():
+    name=input("enter your name :")
+
     # Use a breakpoint in the code line below to debug your script.
-    print("hi welcome to world")  # Press Ctrl+F8 to toggle the breakpoint.
+    print("hi ",name, "welcome to world")  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # # Press the green button in the gutter to run the script.
