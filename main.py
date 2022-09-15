@@ -4,11 +4,13 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi():
-    name=input("enter your name :")
+
+fname=input("enter your first name :")
+lname=input("enter your first name :")
+
 
     # Use a breakpoint in the code line below to debug your script.
-    print("hi ",name, "welcome to world")  # Press Ctrl+F8 to toggle the breakpoint.
+print("hi ",fname +lname, "welcome to world")  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # # Press the green button in the gutter to run the script.
